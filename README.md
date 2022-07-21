@@ -1,5 +1,5 @@
-# Portifólio
-Portifólio do desenvolvedor
+# Portfólio
+Portfólio do desenvolvedor
 
 ## Tarefas
 
